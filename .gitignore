@@ -28,3 +28,4 @@ var/
 .DS_Store
 *.zip
 materials/
+*.json
